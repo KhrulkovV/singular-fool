@@ -1,1 +1,0 @@
-from singular_fool.adversary import get_adversary
