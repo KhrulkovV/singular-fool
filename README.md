@@ -29,3 +29,4 @@ img_batch
 ```
 is a collection of images (e.g. in this case it might be a numpy tensor
 of size [32, 28, 28, 1]).
+A very basic example is given [here](https://github.com/KhrulkovV/singular-fool/blob/master/examples/basic.ipynb).
