@@ -3,8 +3,10 @@ perturbations based on the (p, q) - singular vectors (see [https://arxiv.org/abs
 for details).
 
 # Installation
-For the installation clone the repository and run
+For the installation do the following
 ```bash
+git clone https://github.com/KhrulkovV/singular-fool
+cd singular-fool
 python setup.py install
 ```
 # Usage
